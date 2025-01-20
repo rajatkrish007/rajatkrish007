@@ -24,8 +24,3 @@ You can view my resume [here](https://drive.google.com/file/d/1riPBOB44WIw-nNeal
 ![Spreadsheets](https://img.shields.io/badge/-Spreadsheets-green?style=for-the-badge) 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?style=for-the-badge) 
 ![Jira](https://img.shields.io/badge/-Jira-lightgrey?style=for-the-badge)
-
-# 📌 Pinned Repositories:
-- [T20 Cricket Score Predictor](https://github.com/rajatkrishnan/T20-Cricket-Score-Predictor)
-- [Customer Churn Prediction](https://github.com/rajatkrishnan/Customer-Churn-Prediction)
-- [HR Analytics Dashboard](https://github.com/rajatkrishnan/HR-Analytics-Dashboard)
