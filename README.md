@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">
-    <img src="github-header-image-rajat.png" alt="Hi, I am Rajat Krishnan - Data & Business Intelligence Analyst">
+    <img src="github-header-image-rajat-krishnan.png" alt="Hi, I am Rajat Krishnan - Data & Business Intelligence Analyst">
   </p>
 </h1>
 
