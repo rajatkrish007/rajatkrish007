@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">
-    <img src="image.png" alt="Hi, I am Rajat Krishnan - Data & Business Intelligence Analyst" height="180">
+    <img src="image.png" alt="Hi, I am Rajat Krishnan - Data & Business Intelligence Analyst" style = "height: 400px; width: 1500px;">
   </p>
 </h1>
 
